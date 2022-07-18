@@ -1,2 +1,2 @@
-# Minhas Anotacoes
- Aqui vai ficar minhas anotações das aulas que fiz
+# Minhas Anotações
+ Aqui vai ficar minhas anotações caso eu esqueça de algo das aulas que eu estou fazendo.
