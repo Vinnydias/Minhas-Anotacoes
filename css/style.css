@@ -4,14 +4,42 @@
 }
 
 body {
-    background-color: rgb(204, 157, 248);
+    background-image: linear-gradient(to right, #b3cad6,#7db8d8);
 
 }
 
 main {
     background-color: white;
-    width: 500px;
+    border-radius: 13px;
+    width: 600px;
     margin: auto;
-    padding: 10px;
-    box-shadow: 3px 3px 5px rgba(0, 0, 0, 0.473);
+    padding: 50px;
+    box-shadow: 5px 5px 6px #5a849b;
+}
+
+h1 {
+    color: #73A5C7;
+    text-align: center;
+    text-shadow: 1px 1px 2px #3f5a6bf5;
+    font-size: 33px;
+}
+
+h2 {
+    color: #355461;
+    text-shadow: 1px 1px 2px #3f5a6bf5;
+    font-size: 22px;
+}
+
+p {
+    text-align: justify;
+    
+}
+
+.Importante {
+    color: red;
+    background-color: rgb(248, 248, 96);
+}
+
+.Next {
+    text-align: right;
 }
