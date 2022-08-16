@@ -17,11 +17,17 @@ main {
     box-shadow: 5px 5px 6px #5a849b;
 }
 
-h1 {
+h1#principal {
     color: #73A5C7;
     text-align: center;
     text-shadow: 1px 1px 2px #3f5a6bf5;
     font-size: 33px;
+}
+
+h1 {
+    font-size: 33px;
+    color: #355461;
+    text-shadow: 1px 1px 2px #3f5a6bf5;
 }
 
 h2 {
