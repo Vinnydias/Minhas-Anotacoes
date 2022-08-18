@@ -51,15 +51,17 @@ p {
 }
 
 a {
-    color: black;
+    color: rgb(255, 255, 255);
+    text-shadow: 2px 2px 4px #273842f5;
     text-decoration: none;
     font-weight: bold;
 }
 
 a:hover {
-    color: rgb(61, 61, 61);
+    color: #dfdfdf;
 }
 
 a:active {
-    color: rgb(109, 214, 255);
+    color: #73A5C7;
+    text-shadow: 2px 2px 4px #273842f5;
 }
